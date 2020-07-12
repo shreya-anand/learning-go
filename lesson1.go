@@ -16,5 +16,6 @@ func main() {
 		fullNames[i] = x + " " + y
 
 	}
-	fmt.Println(fullNames)
+    fmt.Println(fullNames)
+    fmt.Println("testing git")
 }
