@@ -5,6 +5,16 @@ import (
     "strings"
 )
 
+func computer(board [][]string) [][]string {
+    for i := 0; i < 3; i++ {
+        for j := 0; j < 3; j++ {
+            if board[i][j] == "_" {
+                
+            }
+        }
+    }
+    return b
+}
 func main() {
     board := [][]string{
 		[]string{"_", "_", "_"},
